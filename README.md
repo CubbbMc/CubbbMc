@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+<pre>       
+ ███  █   █ ████  ████  ████  █   █  ███  
+█     █   █ █   █ █   █ █   █ ██ ██ █     
+█     █   █ ████  ████  ████  █ █ █ █     
+█     █   █ █   █ █   █ █   █ █   █ █     
+ ███   ███  ████  ████  ████  █   █  ███  
 
-<!--
-**CubbbMc/CubbbMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Youtube](https://www.youtube.com/@CubicMc)**  **/**  **[Add me on discord](https://discord.com/)**
+<img src=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif>
+</pre>
+</div>
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+#### Contact me
+
+[![Discord @cubicmcofficial ](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+</div>
+
+> [!Caution]
+> **All content and examples shared on this profile are intended strictly for `learning and research purposes`.** <br>
+> **The author assumes no liability for any misuse, damages, or consequences arising from the application of this material.** <br>
+> **By using this information, you acknowledge that you do so at `your own discretion and responsibility`.**
